@@ -44,11 +44,9 @@ destination:
 <a href="https://NEW-DESTINATION.example/">Continue</a>
 ```
 
-## Optional: restore the ASWF logo
+## Logo
 
-The page currently shows a text wordmark. To use the logo, upload `aswf-logo.png` (from
-`flowb-fix/assets/` in the SEMA 2026 QR Code Plotter Giveaway Drive folder) to `live/assets/`,
-then swap the two `<span>` lines inside `.brand-lockup` in `live/index.html` for
-`<img src="assets/aswf-logo.png" alt="ASWF — American Standard Window Film" width="600" height="172" />`.
+`live/assets/aswf-logo.png` is the original ASWF logo, copied from `flowb-fix/assets/` in the
+SEMA 2026 QR Code Plotter Giveaway Drive folder. Do not move it out of `live/assets/`.
 
 Full background: `flowb-fix/MAINTENANCE.md` and `REMEDIATION.md` in the same Drive folder.
