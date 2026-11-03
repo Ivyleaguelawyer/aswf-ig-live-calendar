@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:18640289731051734@instagram.com
-DTSTAMP:20261015T234820Z
+DTSTAMP:20261103181500Z
 DTSTART;TZID=America/Los_Angeles:20261106T110000
 DTEND;TZID=America/Los_Angeles:20261106T120000
 SUMMARY:ASWF IG Live
 DESCRIPTION:Watch the ASWF Instagram Live: https://www.instagram.com/aswfus
- a?upcoming_event_id=18640289731051734
-URL:https://www.instagram.com/aswfusa?upcoming_event_id=18640289731051734
+ a?upcoming_event_id=17955515454312698
+URL:https://www.instagram.com/aswfusa?upcoming_event_id=17955515454312698
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
